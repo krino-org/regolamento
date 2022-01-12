@@ -32,7 +32,6 @@
 
 * [Associarsi](partecipazione/associarsi.md)
 * [Forme di partecipazione](partecipazione/forme-di-partecipazione.md)
-* [Disponibilità](partecipazione/disponibilita.md)
 * [Accountability](partecipazione/accountability.md)
 * [Responsabilità](partecipazione/responsabilita.md)
 
