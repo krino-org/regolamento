@@ -38,6 +38,6 @@
 ## 🤌 Comunicazione
 
 * [Canali di comunicazione](comunicazione/canali-di-comunicazione.md)
-* [Accesso e password](comunicazione/accesso-e-password.md)
+* [Gestione dei canali](comunicazione/accesso-e-password.md)
 * [Linguaggio inclusivo](comunicazione/linguaggio-inclusivo.md)
 * [Cosa e come pubblicare?](comunicazione/cosa-e-come-pubblicare.md)
