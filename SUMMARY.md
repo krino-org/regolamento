@@ -27,6 +27,7 @@
   * [Gruppi di lavoro](progetti/struttura-e-processi/gruppi-di-lavoro.md)
 * [Progetto KRINO](progetti/progetto-krino/README.md)
   * [Nomina delle cariche](progetti/progetto-krino/nomina-delle-cariche.md)
+* [Consulenze esterne](progetti/consulenze-esterne.md)
 
 ## 🤜 Partecipazione
 
