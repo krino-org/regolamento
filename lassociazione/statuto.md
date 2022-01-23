@@ -1,14 +1,13 @@
 ---
-description: Statuto
+description: Statuto e Regolamento
 ---
 
-# Statuto
+# Statuto e Regolamento
 
-Lo [Statuto](https://drive.google.com/drive/folders/1LwC\_3PsqUl\_E1z8wrmfw3TZQQHUUzKV1) di KRINO è composto da cinque titoli:&#x20;
+KRINO, in quanto associazione non riconosciuta, è dotata di uno [Statuto](https://drive.google.com/drive/folders/1LwC\_3PsqUl\_E1z8wrmfw3TZQQHUUzKV1) regolarmente depositato presso l'Agenzia delle Entrate.
 
-1. Disposizioni generali: denominazione, sede e scopo;&#x20;
-2. Associazione: chi sono i soci, come fare domanda di ammissione, diritti e doveri degli associati, perdita della qualità di associato;&#x20;
-3. Organizzazione dell’associazione: organi, assemblea dei Soci, Presidente, Consiglio Direttivo, Vice Presidente, gratuità delle cariche, gruppi di lavoro e commissioni);&#x20;
-4. Disposizioni finanziarie: fondo comune, gestione finanziaria, patrimonio residuo;&#x20;
+Lo Statuto, sebbene contenga i principi fondativi dell'associazione e gli istituti necessari per i termini di legge, non esplicita i principi e le pratiche che si sono consolidate nell'esperienza associativa: per questo, KRINO prevede anche un Regolamento interno.
+ 
+Sia lo statuto di KRINO che il regolamento (ovvero questo documento) vengono forniti al momento della domanda di ammissione all’associazione e sono conservati in versioni accessibili in lettura anche all'esterno dell'associazione: si tratta in ogni caso di documenti fluidi soggetti a [processi di modifica](revisione-e-modifiche.md) in base alle esigenze che possono emergere nel corso della vita associativa.
 
-Disposizioni finali: modifiche statutarie, scioglimento, controversie, disposizioni finali.
+
