@@ -26,18 +26,18 @@
   * [Gruppi di lavoro](progetti/struttura-e-processi/gruppi-di-lavoro.md)
 * [Progetto KRINO](progetti/progetto-krino/README.md)
   * [Nomina delle cariche](progetti/progetto-krino/nomina-delle-cariche.md)
+* [Consulenze esterne](progetti/consulenze-esterne.md)
 
 ## 🤜 Partecipazione
 
 * [Associarsi](partecipazione/associarsi.md)
 * [Forme di partecipazione](partecipazione/forme-di-partecipazione.md)
-* [Disponibilità](partecipazione/disponibilita.md)
 * [Accountability](partecipazione/accountability.md)
 * [Responsabilità](partecipazione/responsabilita.md)
 
 ## 🤌 Comunicazione
 
 * [Canali di comunicazione](comunicazione/canali-di-comunicazione.md)
-* [Accesso e password](comunicazione/accesso-e-password.md)
+* [Gestione dei canali](comunicazione/accesso-e-password.md)
 * [Linguaggio inclusivo](comunicazione/linguaggio-inclusivo.md)
 * [Cosa e come pubblicare?](comunicazione/cosa-e-come-pubblicare.md)
