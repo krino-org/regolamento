@@ -1,3 +1,1 @@
-# Momenti associativi
-
-pipipi
+# Momenti associativi 
