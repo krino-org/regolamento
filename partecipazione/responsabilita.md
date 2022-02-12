@@ -6,4 +6,4 @@ Si raccomanda di mantenere sempre il **rispetto reciproco** ed evitare attacchi 
 
 In caso di **conflitti**, le persone coinvolte sono invitate ad un **chiarimento** **in privato**, al di fuori degli spazi di comunicazione di KRINO. Qualora i motivi del conflitto siano ritenuti di interesse per l'associazione, possono essere portati in assemblea - attraverso **specifica richiesta** in mailing list da qualunque soc\* - che delibererà se avviare una **procedura di consultazione e mediazione**.
 
-È importante che l’assemblea de\* soc\* mantenga un atteggiamento aperto e inclusivo nei confronti de\* nuov\* soc\*, accompagnandol\* passo passo nell’adesione alle prime attività.
+È importante che l’assemblea de\* soc\* mantenga un **atteggiamento aperto e inclusivo** nei confronti de\* nuov\* soc\*, accompagnandol\* passo passo nell’adesione alle prime attività. **** Da parte de\* nuov\* soc\* si richiede un altrettanto impegno e il rispetto delle regole e dei processi dell'associazione.

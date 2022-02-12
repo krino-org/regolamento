@@ -15,6 +15,7 @@
   * [KRINANNO](lassociazione/momenti-associativi/krinanno.md)
   * [Come convocare una riunione](lassociazione/momenti-associativi/come-convocare-una-riunione.md)
 * [Forme di finanziamento](lassociazione/forme-di-finanziamento.md)
+* [Consulenze esterne](lassociazione/consulenze-esterne.md)
 * [Sede e contatti](lassociazione/sede-e-contatti.md)
 
 ## ✍ Progetti
@@ -26,7 +27,6 @@
   * [Gruppi di lavoro](progetti/struttura-e-processi/gruppi-di-lavoro.md)
 * [Progetto KRINO](progetti/progetto-krino/README.md)
   * [Nomina delle cariche](progetti/progetto-krino/nomina-delle-cariche.md)
-* [Consulenze esterne](progetti/consulenze-esterne.md)
 
 ## 🤜 Partecipazione
 
